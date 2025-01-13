@@ -48,4 +48,16 @@ The Long-Term Memory Agent is designed to simulate a conversational AI that reta
 - **Scalability**: While the current system uses an in-memory vector store, it can be scaled to use distributed databases or cloud storage solutions for handling larger data volumes and more complex retrieval algorithms.
 - **Extensibility**: New tools and functionalities, such as additional APIs for different types of data retrieval or more advanced embedding techniques, can be integrated seamlessly due to the modular nature of LangChain and LangGraph.
 
-This agent demonstrates the potential of advanced AI models in providing personalized and context-aware interactions, making it a robust solution for scenarios requiring long-term interaction memory.
+
+## Installation
+1. Clone the repository.
+2. Install dependencies:
+``` python
+pip install -r requirements.txt
+```
+
+## Running the Agent
+Execute the agent using:
+``` python
+python src/main.py
+```
