@@ -1,4 +1,4 @@
-# Agents Long-Term Memory
+# Long-Term Memory Agents
 ## Overview
 This project demonstrates the implementation of an agent with long-term memory capabilities using LangGraph.
 
